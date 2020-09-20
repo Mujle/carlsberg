@@ -6,7 +6,7 @@ That being said, I am aware that most of the technologies used were somewhat
 „forced“ into the project.
 
 # Project structure
-Back-end was divided into five independant services with a structure of:
+Back-end was divided into five independent services with a structure of:
 
 ![alt text](https://i.imgur.com/UCGX32B.png)
 
