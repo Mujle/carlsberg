@@ -52,8 +52,8 @@ Github repository link: [user-service](https://github.com/Mujle/user-service)
 
 ### Carlsberg – used by repository-service
 
-![alt text](https://i.imgur.com/V4OAWjM.png)
+![alt text](https://i.imgur.com/H021NSs.png)
 
 ### User – used by user-service
 
-![alt text](https://i.imgur.com/SjwoWYk.png)
+![alt text](https://i.imgur.com/uluX5gE.png)
